@@ -1,6 +1,6 @@
-### Hi 👋. I'm André Santos, an Informatics engineer, working as reasearcher @ [Tech & People](https://techandpeople.github.io) on [LASIGE](http://lasige.pt).
+### Hi 👋. I'm André Santos, an Informatics engineer, working at the [Tech & People Lab](https://techandpeople.github.io) in [LASIGE](http://lasige.pt).
 
-🖥️ I’m currently working on these projects:
+I’m currently working on these projects:
   - [WildKey](https://techandpeople.github.io/keyboard/)
   - [Sonaar](http://www.di.fc.ul.pt/~cad/SONAAR/documentation/doc.html)
 
