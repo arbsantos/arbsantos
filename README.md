@@ -2,7 +2,10 @@
 
 I’m currently working on these projects:
   - [WildKey](https://techandpeople.github.io/keyboard/)
+
+Projects where I've worked:
   - [Sonaar](http://www.di.fc.ul.pt/~cad/SONAAR/documentation/doc.html)
+  - [QualWeb](https://github.com/qualweb)
 
 ### Languages and Tools
 
