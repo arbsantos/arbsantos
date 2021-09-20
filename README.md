@@ -1,6 +1,6 @@
 ### Hi 👋. I'm André Santos, an Informatics engineer, working at the [Tech & People Lab](https://techandpeople.github.io) in [LASIGE](http://lasige.pt).
 
-I’m currently working on these projects:
+I’m currently working on:
   - [WildKey](https://techandpeople.github.io/keyboard/)
 
 Projects where I've worked:
