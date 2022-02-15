@@ -3,8 +3,6 @@
 I’m currently working on:
   - [WildKey](https://techandpeople.github.io/keyboard/) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arbsantos&theme=github_dark&repo=ideafast-keyboard&show_owner=true)](https://github.com/WildKey-Dev/ideafast-keyboard)
-
 Projects where I've worked:
   - [Sonaar](http://www.di.fc.ul.pt/~cad/SONAAR/documentation/doc.html)
   - [QualWeb](https://github.com/qualweb)
