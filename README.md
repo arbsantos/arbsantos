@@ -41,7 +41,6 @@ Projects where I've worked:
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="25" height="25"/></a>
 </p>
 
-#### Top languages on my public repos
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbsantos&theme=github_dark&langs_count=10&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbsantos&theme=github_dark&show_icons=true)  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arbsantos&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbsantos&theme=github_dark&show_icons=true)  
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arbsantos&theme=github_dark)
