@@ -3,6 +3,7 @@
 I’m currently working on:
   - [Datapark](https://dataparklasige.appspot.com/parkinson/)
   - [WildKey](https://techandpeople.github.io/keyboard/) 
+  - [IDEA-FAST](https://idea-fast.eu) 
 
 Projects where I've worked:
   - [Sonaar](http://www.di.fc.ul.pt/~cad/SONAAR/documentation/doc.html)
