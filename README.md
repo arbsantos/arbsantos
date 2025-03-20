@@ -1,7 +1,7 @@
-### Hi 👋. I'm André Santos, an Informatics engineer, working at the [Tech & People Lab](https://techandpeople.github.io) in [LASIGE](http://lasige.pt).
+### Hi 👋. I'm André Santos, an Informatics engineer, working at the [Tech & People Lab](https://techandpeople.github.io), [LASIGE](http://lasige.pt), [Ulisboa](https://www.ulisboa.pt/).
 
 I’m currently working on:
-  - [Datapark](https://dataparklasige.appspot.com/parkinson/)
+  - [Datapark](https://datapark.pt/)
   - [WildKey](https://techandpeople.github.io/keyboard/) 
   - [IDEA-FAST](https://idea-fast.eu) 
 
