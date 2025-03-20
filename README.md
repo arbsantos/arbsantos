@@ -1,4 +1,4 @@
-### Hi 👋. I'm André Santos, an Informatics engineer, working at the [Tech & People Lab](https://techandpeople.github.io), [LASIGE](http://lasige.pt), [Ulisboa](https://www.ulisboa.pt/).
+### Hi 👋. I'm André Santos, an Informatics engineer, working at the [Tech & People Lab](https://techandpeople.github.io), [LASIGE](http://lasige.pt), [Ciências](https://ciencias.ulisboa.pt/), [Ulisboa](https://www.ulisboa.pt/).
 
 I’m currently working on:
   - [Datapark](https://datapark.pt/)
