@@ -1,11 +1,9 @@
-### Hi 👋. I'm André Santos, an Informatics engineer, working at the [Tech & People Lab](https://techandpeople.github.io), [LASIGE](http://lasige.pt), [Ciências](https://ciencias.ulisboa.pt/), [Ulisboa](https://www.ulisboa.pt/).
+### Hi 👋. I'm André Santos, an Informatics engineer, working at the [LASIGE](http://lasige.pt), [Ciências](https://ciencias.ulisboa.pt/), [Ulisboa](https://www.ulisboa.pt/).
 
-I’m currently working on:
+Projects where I've worked:
   - [Datapark](https://datapark.pt/)
   - [WildKey](https://techandpeople.github.io/keyboard/) 
   - [IDEA-FAST](https://idea-fast.eu) 
-
-Projects where I've worked:
   - [Sonaar](http://www.di.fc.ul.pt/~cad/SONAAR/documentation/doc.html)
   - [QualWeb](https://github.com/qualweb)
 
